@@ -1,4 +1,4 @@
-package creationalPatterns.builderPattern;
+package creational.builder;
 
 //make constructor private
 //add static class inside class and redeclare valriables
